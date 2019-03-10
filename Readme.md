@@ -4,7 +4,7 @@ Augusto Delgado
 email: delgado.auri@gmail.com   
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007   
 
-[![Build Status](https://travis-ci.org/EnriquePH/FARS.svg?branch=master)](https://travis-ci.org/EnriquePH/FARS) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/EnriquePH/FARS?branch=master&svg=true)](https://ci.appveyor.com/project/EnriquePH/FARS)
+[![Build Status](https://travis-ci.com/saruman8607/FARS.svg?branch=master)](https://travis-ci.com/saruman8607/FARS) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/EnriquePH/FARS?branch=master&svg=true)](https://travis-ci.com/saruman8607/FARS)
 
 ## Create an Example Package in R 
 
@@ -34,9 +34,9 @@ which provides a meaningful description of the package and how it should be
 used?
 * Does this package have at least one test included in the [tests/](https://github.com/saruman8607/FARS/tree/master/tests/testthat) directory?
 * Does this package have a [NAMESPACE](https://github.com/saruman8607/FARS/blob/master/NAMESPACE) file?
-* Does the README.md file for this directory have a [Travis badge](https://travis-ci.org/EnriquePH/FARS)?
-* Is the build of this package passing on [Travis badge](https://travis-ci.org/EnriquePH/FARS)?
-* Are the build logs for this package on [Travis badge](https://travis-ci.org/EnriquePH/FARS) free of any errors, warnings, or notes?
+* Does the README.md file for this directory have a [Travis badge](https://travis-ci.com/saruman8607/FARS)?
+* Is the build of this package passing on [Travis badge](https://travis-ci.com/saruman8607/FARS)?
+* Are the build logs for this package on [Travis badge](https://travis-ci.com/saruman8607/FARS) free of any errors, warnings, or notes?
 
 ## Notes:
 
